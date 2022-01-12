@@ -1,0 +1,43 @@
+.all-products span{
+    font-size: 10px;
+}
+.head>div{
+    background-color: crimson;
+    padding: 5px 0;
+}
+.body>div{
+    background-color: rgb(187, 144, 153);
+}
+.body>div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white
+}
+
+.head> div{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+}
+.all-products span{
+
+    color: white;
+    font-weight: 500;
+}
+.delete-product svg{
+    height: 1rem;
+    width: 1rem;
+    cursor: pointer;
+}
+.edit-product svg{
+    height: 1rem;
+    width: 1rem;
+    cursor: pointer;
+}
+.close{
+    border: none;
+    background-color: crimson;
+}
